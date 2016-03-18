@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="E:\alarmas\androidStudio-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jar="C:\Users\jorge\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="E:\android\code\CambiarPaginas\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-2eafce6936d485cbe486617c1be36327f1a3e1fd.jar" />
+        <dex dex="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-598e0003392f93babdb427cafe2cf8891347b507.jar" />
     </item>
     <item
-        jar="E:\android\code\CambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="E:\android\code\CambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-f61c95a9603f0445642680b5065e35a34104f509.jar" />
-    </item>
-    <item
-        jar="E:\android\code\CambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jar="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="E:\android\code\CambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-5a3dec20daafb04ee9bdad557f00fdf09e3682bf.jar" />
+        <dex dex="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-f0600632bfc99592ccddf0a613244785781954f4.jar" />
     </item>
     <item
-        jar="E:\android\code\CambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="E:\android\code\CambiarPaginas\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-ea5f401907b7155dd870965307880c6d99a8c96b.jar" />
-    </item>
-    <item
-        jar="E:\android\code\CambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jar="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="E:\android\code\CambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-1a19a5f6b7e93362356390f9b881df75b5f0298e.jar" />
+        <dex dex="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-663c457616e06ddfbd32a123ed7598a16acb37e6.jar" />
     </item>
     <item
-        jar="E:\android\code\CambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jar="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="E:\android\code\CambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-93b727c2517905dd452b1e468b57f4c82f9b6d48.jar" />
+        <dex dex="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-3d44c6a8cd2e399575980e1d2fba0daaa9e6222f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\pre-dexed\debug\classes-842ca296b8b2cb20afbb6ac0d833044da9cf1506.jar" />
+    </item>
+    <item
+        jar="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\jorge\Documents\projects\cambiarPaginas\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-828130dab60f1d32a001e40f42c28b0c7daddb95.jar" />
     </item>
 
 </items>
